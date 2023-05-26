@@ -3,7 +3,7 @@
 <p align="center"><img src="./giphy.gif" alt="macropower"></div></p>
 
 
-<div style="margin-top: 20px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airesgab&layout=compact&theme=dark" alt="my stats" align="right" style="max-width: 100%;"></div>
+<div style="margin-top: 20px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airesgab&layout=compact&theme=transparent" alt="my stats" align="right" style="max-width: 100%;"></div>
 
   <ul>
   <li>📚 I’m currently a Full Stack Development student</li>
@@ -30,13 +30,13 @@
 <div style="margin-top: 30px;", align="center">
 <h2> 🚀 Projects from Spark AR for Instagram</h2>
 <a href="https://www.instagram.com/airesgab/">
-<p align="center"><img src="./funnel.png" width="800" height="250"/></p>
+<p align="center"><img src="./funnel.png" width="100%" height="auto"/></p>
 
 <p align="center" href="https://www.instagram.com/airesgab/">
-<img src="./IMG_9933.png" width="200" height="320"/>
-<img src="./IMG_9934.png" width="200" height="320"/>
-<img src="./IMG_9939.png" width="200" height="320"/>
-<img src="./IMG_9937.png" width="200" height="320"/>
+<img src="./IMG_9933.png" width="20%" height="auto"/>
+<img src="./IMG_9934.png" width="20%" height="auto"/>
+<img src="./IMG_9939.png" width="20%" height="auto"/>
+<img src="./IMG_9937.png" width="20%" height="auto"/>
   </p></a>
 
 
