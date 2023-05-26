@@ -15,8 +15,8 @@
   <li>📫 How to reach me: gabes_t@hotmail.com</li>
   </ul>
 
-<div style="margin-top: 20px;", align="center">
-<h2> 🚀 Some Tools I Have Used and Learned</h2>
+<div style="margin-top: 30px;", align="center">
+<h2> 🚀 Tools I have used and learned</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
@@ -26,5 +26,17 @@
 <img src="./metafb.png" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45"/>
 </center></div>
+
+<div style="margin-top: 30px;", align="center">
+<h2> 🚀 Projects from Spark AR for Instagram</h2>
+<p align="center" href="https://www.instagram.com/airesgab/"><img src="./funnel.png" width="800" height="250" style="border-radius:15px" /></p>
+
+<p align="center" href="https://www.instagram.com/airesgab/">
+<img src="./IMG_9933.jpg" width="200" height="320" style="border-radius:15px"/>
+<img src="./IMG_9934.jpg" width="200" height="320" style="border-radius:15px"/>
+<img src="./IMG_9935.jpg" width="200" height="320" style="border-radius:15px"/>
+<img src="./IMG_9937.jpg" width="200" height="320" style="border-radius:15px"/>
+</p>
+
 
 
