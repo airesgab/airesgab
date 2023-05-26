@@ -29,14 +29,15 @@
 
 <div style="margin-top: 30px;", align="center">
 <h2> 🚀 Projects from Spark AR for Instagram</h2>
-<p align="center" href="https://www.instagram.com/airesgab/"><img src="./funnel.png" width="800" height="250"/></p>
+<a href="https://www.instagram.com/airesgab/">
+<p align="center"><img src="./funnel.png" width="800" height="250"/></p>
 
 <p align="center" href="https://www.instagram.com/airesgab/">
 <img src="./IMG_9933.png" width="200" height="320"/>
 <img src="./IMG_9934.png" width="200" height="320"/>
 <img src="./IMG_9939.png" width="200" height="320"/>
 <img src="./IMG_9937.png" width="200" height="320"/>
-</p>
+  </p></a>
 
 
 
