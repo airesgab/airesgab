@@ -27,17 +27,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45"/>
 </center></div>
 
-<div style="margin-top: 30px;", align="center">
-<h2> 🚀 Projects from Spark AR for Instagram</h2>
-<a href="https://www.instagram.com/airesgab/">
-<p align="center"><img src="./funnel.png" width="100%" height="auto"/></p>
-
-<p align="center" href="https://www.instagram.com/airesgab/">
-<img src="./IMG_9933.png" width="20%" height="auto"/>
-<img src="./IMG_9934.png" width="20%" height="auto"/>
-<img src="./IMG_9939.png" width="20%" height="auto"/>
-<img src="./IMG_9937.png" width="20%" height="auto"/>
-  </p></a>
-
 
 
